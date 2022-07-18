@@ -4,17 +4,15 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Index</title>
+<title>VIEW EMPLOYEES</title>
 </head>
 <body>
-<h1>Welcome to JSP</h1>
-<center><br>
-<a href="addemployee.jsp">Add New Employee</a>
-</br>
+<form action="Employees" method="get">
+<center>
+<h1>View All Employees</h1>
+<div>
+<input type='submit' value='VIEW' name='submit'></div>
 </center>
-<center><br>
-<a href="updateemployee.jsp">Update Employee</a>
-</br>
-</center>
+</form>
 </body>
 </html>
