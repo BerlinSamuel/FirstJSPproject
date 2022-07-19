@@ -16,5 +16,9 @@
 <a href="updateemployee.jsp">Update Employee</a>
 </br>
 </center>
+<center><br>
+<a href="deleteemployee.jsp">Delete Employee</a>
+</br>
+</center>
 </body>
 </html>
